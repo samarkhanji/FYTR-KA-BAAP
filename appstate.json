@@ -1,144 +1,63 @@
 [{
-	"key": "sb",
-	"value": "ss5vaITJ25uI2RQsdFhCzuwx",
+	"key": "_ga",
+	"value": "GA1.1.932330662.1773645521",
 	"path": "/",
 	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2026-04-02T16:33:50.454Z",
-	"lastAccessed": "2026-04-02T16:33:50.454Z"
+	"domain": ".melvinjonesrepol.com",
+	"creation": "2026-04-02T16:40:56.828Z",
+	"lastAccessed": "2026-04-02T16:40:56.828Z"
 	},
 	{
-	"key": "m_pixel_ratio",
-	"value": "2",
+	"key": "__gads",
+	"value": "ID",
 	"path": "/",
 	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2026-04-02T16:33:50.454Z",
-	"lastAccessed": "2026-04-02T16:33:50.454Z"
+	"domain": ".melvinjonesrepol.com",
+	"creation": "2026-04-02T16:40:56.828Z",
+	"lastAccessed": "2026-04-02T16:40:56.828Z"
 	},
 	{
-	"key": "ps_l",
-	"value": "1",
+	"key": "__gpi",
+	"value": "UID",
 	"path": "/",
 	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2026-04-02T16:33:50.454Z",
-	"lastAccessed": "2026-04-02T16:33:50.454Z"
+	"domain": ".melvinjonesrepol.com",
+	"creation": "2026-04-02T16:40:56.828Z",
+	"lastAccessed": "2026-04-02T16:40:56.828Z"
 	},
 	{
-	"key": "ps_n",
-	"value": "1",
+	"key": "__eoi",
+	"value": "ID",
 	"path": "/",
 	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2026-04-02T16:33:50.454Z",
-	"lastAccessed": "2026-04-02T16:33:50.454Z"
+	"domain": ".melvinjonesrepol.com",
+	"creation": "2026-04-02T16:40:56.828Z",
+	"lastAccessed": "2026-04-02T16:40:56.828Z"
 	},
 	{
-	"key": "wd",
-	"value": "360x806",
+	"key": "FCCDCF",
+	"value": "%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22b234a154-ac26-4387-ab0b-18ceb9eb1522%5C%22%2C%5B1773645558%2C677000000%5D%5D%22%5D%5D%5D",
 	"path": "/",
 	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2026-04-02T16:33:50.454Z",
-	"lastAccessed": "2026-04-02T16:33:50.454Z"
+	"domain": ".melvinjonesrepol.com",
+	"creation": "2026-04-02T16:40:56.828Z",
+	"lastAccessed": "2026-04-02T16:40:56.828Z"
 	},
 	{
-	"key": "vpd",
-	"value": "v1%3B634x360x2",
+	"key": "FCNEC",
+	"value": "%5B%5B%22AKsRol9QNfpza0gYKX5TMES9cbXMeUJMZ4kKPaM-CCoEyHeAdw6O2UICrshjK6qb9kObJlypnIMcJ3ntE3J_w_ZobPkNwLD-dcrfXdxW6rMsS5XxK48_uSgQV9O01U-iU0V18Pku8bO-MX7V0H_K1KXXhy8_dW1ueA%3D%3D%22%5D%5D",
 	"path": "/",
 	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2026-04-02T16:33:50.454Z",
-	"lastAccessed": "2026-04-02T16:33:50.454Z"
+	"domain": ".melvinjonesrepol.com",
+	"creation": "2026-04-02T16:40:56.828Z",
+	"lastAccessed": "2026-04-02T16:40:56.828Z"
 	},
 	{
-	"key": "oo",
-	"value": "v1",
+	"key": "_ga_NHWCF85JCG",
+	"value": "GS2.1.s1774193591$o3$g1$t1774193604$j47$l0$h0",
 	"path": "/",
 	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2026-04-02T16:33:50.454Z",
-	"lastAccessed": "2026-04-02T16:33:50.454Z"
-	},
-	{
-	"key": "x-referer",
-	"value": "eyJyIjoiL3gvY2hlY2twb2ludC9oYWNrZWRfY2xlYW51cC8%2FcmVhc29uPWVwc2lsb25fcmV2aWV3X2FjdGl2aXR5JmV4dD0xNzcxNjY0NDgyJmhhc2g9QWVYUkhXOTZuVUNJU3lHUlpabyIsImgiOiIveC9jaGVja3BvaW50L2hhY2tlZF9jbGVhbnVwLz9yZWFzb249ZXBzaWxvbl9yZXZpZXdfYWN0aXZpdHkmZXh0PTE3NzE2NjQ0ODImaGFzaD1BZVhSSFc5Nm5VQ0lTeUdSWlpvIiwicyI6Im0ifQ%3D%3D",
-	"path": "/",
-	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2026-04-02T16:33:50.454Z",
-	"lastAccessed": "2026-04-02T16:33:50.454Z"
-	},
-	{
-	"key": "datr",
-	"value": "uwDMaQ_w3G8DhMdtQw6cV1TI",
-	"path": "/",
-	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2026-04-02T16:33:50.454Z",
-	"lastAccessed": "2026-04-02T16:33:50.454Z"
-	},
-	{
-	"key": "locale",
-	"value": "en_GB",
-	"path": "/",
-	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2026-04-02T16:33:50.454Z",
-	"lastAccessed": "2026-04-02T16:33:50.454Z"
-	},
-	{
-	"key": "pas",
-	"value": "61557988164733%3ABeLVZq7csE%2C61578376442472%3AuQIS0BKUCh%2C61578690814102%3AT2aTODiRJo%2C61576201539904%3Ar58Bm88B5x%2C61553558431912%3AEneJy8FiWd%2C100010027593904%3APr6xwcTKEQ%2C61577715114501%3ANb3cJWtNSc",
-	"path": "/",
-	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2026-04-02T16:33:50.454Z",
-	"lastAccessed": "2026-04-02T16:33:50.454Z"
-	},
-	{
-	"key": "c_user",
-	"value": "61553558431912",
-	"path": "/",
-	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2026-04-02T16:33:50.454Z",
-	"lastAccessed": "2026-04-02T16:33:50.454Z"
-	},
-	{
-	"key": "xs",
-	"value": "32%3ANd28lLTERjFbSg%3A2%3A1775147617%3A-1%3A-1",
-	"path": "/",
-	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2026-04-02T16:33:50.454Z",
-	"lastAccessed": "2026-04-02T16:33:50.454Z"
-	},
-	{
-	"key": "fr",
-	"value": "0Czz8UCfpN2r0VGGY.AWedfrbfabdc0Jm0MiY8Fn7Auc1Y5ORy1HMEnK8QbxMpr1ODhm4.BpgLA8..AAA.0.0.Bpzppi.AWdmE9YqcjQkZHvMnfU0kgo6Q24",
-	"path": "/",
-	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2026-04-02T16:33:50.454Z",
-	"lastAccessed": "2026-04-02T16:33:50.454Z"
-	},
-	{
-	"key": "fbl_st",
-	"value": "101027446%3BT%3A29585793",
-	"path": "/",
-	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2026-04-02T16:33:50.454Z",
-	"lastAccessed": "2026-04-02T16:33:50.454Z"
-	},
-	{
-	"key": "wl_cbv",
-	"value": "v2%3Bclient_version%3A3132%3Btimestamp%3A1775147619",
-	"path": "/",
-	"hostOnly": false,
-	"domain": ".facebook.com",
-	"creation": "2026-04-02T16:33:50.454Z",
-	"lastAccessed": "2026-04-02T16:33:50.454Z"
+	"domain": ".melvinjonesrepol.com",
+	"creation": "2026-04-02T16:40:56.828Z",
+	"lastAccessed": "2026-04-02T16:40:56.828Z"
 	}]
